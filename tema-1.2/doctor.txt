@@ -10,7 +10,7 @@
 [√] Windows Version (Windows 11 or higher, 25H2, 2009) [4.6s]
 
 [√] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [2.6s]
-    • Android SDK at C:\Users\Det-Pc\AppData\Local\Android\sdk
+    • Android SDK at C:\-----\----\----\----\Android\sdk
     • Emulator version 35.4.9.0 (build_id 13025442) (CL:N/A)
     • Platform android-36, build-tools 36.0.0
     • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java

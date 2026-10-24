@@ -77,9 +77,7 @@ Found 3 connected devices:
 El `iniciar.bat` de la guía mostraba la versión de Flutter pero no abría VS Code. La causa es que `flutter` es un archivo `.bat`, y en un script de lotes, llamar a otro `.bat` sin `call` termina el script original sin ejecutar las líneas siguientes. Lo resolví cambiando `flutter --version` por `call flutter --version`.
 
 
-# Actividad 7 - Preguntas
-# 2. Actividad 7: cuestionario
- 
+# Actividad 7 - Preguntas 
 | # | Respuesta |
 |---|---|
 | 1 | b) `flutter\bin` |
